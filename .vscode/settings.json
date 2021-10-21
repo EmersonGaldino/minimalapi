@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "API-DOTNET",
+            "database": "${workspaceFolder:TodoList}/Repository/app.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
